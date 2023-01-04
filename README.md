@@ -3,6 +3,10 @@
 Dataset:
 https://data.mendeley.com/datasets/n3ydw29sbz/3
 
+Sample Image of datasets: 
+![Catla-Body (1)](https://user-images.githubusercontent.com/47457585/210493033-bf5690bd-b2aa-4a35-a8bc-d498f780ce2b.JPG)
+
+
 # Preprocessing: 
 The images are enhanced using CLAHE algoerithm to overcome the lighting issues and all the images are reshaped to 512 x 512.
 
